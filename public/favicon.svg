@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Sunflower petals -->
+  <g fill="#FFB81C">
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(0 50 50)"/>
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(45 50 50)"/>
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(90 50 50)"/>
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(135 50 50)"/>
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(180 50 50)"/>
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(225 50 50)"/>
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(270 50 50)"/>
+    <ellipse cx="50" cy="20" rx="12" ry="20" transform="rotate(315 50 50)"/>
+  </g>
+  <!-- Center -->
+  <circle cx="50" cy="50" r="22" fill="#784434"/>
+</svg>
